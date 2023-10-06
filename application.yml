@@ -1,6 +1,6 @@
 spring:
-    application:
-        name: config-user
+  application:
+    name: co-use
 eureka:
   instance:
     prefer-ip-address: true
